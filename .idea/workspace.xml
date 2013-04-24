@@ -5,7 +5,7 @@
     <ignored path="mailApi.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/App.java" changelist="d6923564-53d9-4c5b-ac14-2a9c211fec45" time="1366773212072" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="d6923564-53d9-4c5b-ac14-2a9c211fec45" time="1366775848374" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="d6923564-53d9-4c5b-ac14-2a9c211fec45" time="1366785309885" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <file leaf-file-name="App.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/yafchentw/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="52" selection-start="608" selection-end="608" vertical-scroll-proportion="0.55944055">
+            <state line="27" column="59" selection-start="861" selection-end="861" vertical-scroll-proportion="0.6293706">
               <folding />
             </state>
           </provider>
@@ -87,7 +87,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="6" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
+            <state line="25" column="23" selection-start="798" selection-end="798" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -228,7 +228,7 @@
     <property name="options.lastSelected" value="project.scopes" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/mailreview/mailreview.ipr" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -366,7 +366,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1420" height="801" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -383,7 +383,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67107195" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -472,7 +472,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="6" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
+        <state line="25" column="23" selection-start="798" selection-end="798" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -486,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/yafchentw/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="52" selection-start="608" selection-end="608" vertical-scroll-proportion="0.55944055">
+        <state line="27" column="59" selection-start="861" selection-end="861" vertical-scroll-proportion="0.6293706">
           <folding />
         </state>
       </provider>
